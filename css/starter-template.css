@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.error {
+	color: red;
+}
+
+
+.txtCenter {
+    text-align: center;
+}
