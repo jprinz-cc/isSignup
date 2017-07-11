@@ -7,7 +7,7 @@ CREATE TABLE `inetsecure` (
   `student` varchar(20) CHARACTER SET utf8 NOT NULL,
   `topic` varchar(100) CHARACTER SET utf8 NOT NULL,
   `date_entered` date NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+) DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 
 --
